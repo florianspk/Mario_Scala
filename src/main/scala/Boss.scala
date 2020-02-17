@@ -1,3 +1,3 @@
-trait Boss {
-
+trait Boss extends Ennemi {
+val PV : Int
 }
