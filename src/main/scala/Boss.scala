@@ -1,3 +1,3 @@
-class Boss {
+trait Boss {
 
 }

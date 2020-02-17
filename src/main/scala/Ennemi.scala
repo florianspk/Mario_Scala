@@ -1,3 +1,3 @@
-class Ennemi {
+trait Ennemi {
 
 }

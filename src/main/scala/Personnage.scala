@@ -1,3 +1,3 @@
-class Personnage {
+trait Personnage {
 
 }

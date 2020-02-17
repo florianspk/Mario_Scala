@@ -1,0 +1,3 @@
+class Peach extends Princesse {
+
+}

@@ -1,3 +1,3 @@
-class Princesse {
+trait Princesse {
 
 }

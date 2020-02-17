@@ -1,0 +1,3 @@
+class Bowser extends Boss {
+
+}

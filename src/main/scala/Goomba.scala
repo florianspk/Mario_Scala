@@ -1,0 +1,3 @@
+class Goomba extends Ennemi {
+
+}
